@@ -294,4 +294,11 @@ Branch master set up to track remote branch master from origin.
 ]0;~/Documents/personal/websiteCharless-MacBook-Pro-2:website charlesrohde$ gt[K[Kgit push -u origin master[7Popen ~/.gitconfig git config --global user.name "chuckrohde"nkrohde"[17Ppush -u origin masterremote add origin https://github.com/chuckrohde/website.git[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[31Pcommit -m 'My first commit!'[17Padd --all .
 ]0;~/Documents/personal/websiteCharless-MacBook-Pro-2:website charlesrohde$ gitp[K push
 Everything up-to-date
+git rm --cached .Rproj.user/[K
+fatal: not removing '.Rproj.user' recursively without -r
+]0;~/Documents/personal/websiteCharless-MacBook-Pro-2:website charlesrohde$ git rm --cached .Rproj.user0.Rproj.userr.Rproj.user .Rproj.user=.Rproj.user=.Rproj.user=.Rproj.user[1P.Rproj.user[1P.Rproj.user[1P.Rproj.user[1P.Rproj.user[1P.Rproj.user[1P.Rproj.user[C[C[1@-[1@r[1@ 
+error: the following file has staged content different from both the
+file and the HEAD:
+    .Rproj.user/22BF9B2F/console06/INDEX001
+(use -f to force removal)
 ]0;~/Documents/personal/websiteCharless-MacBook-Pro-2:website charlesrohde$ 
