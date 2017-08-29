@@ -16,7 +16,7 @@ weight = 60
 
 This is a link to the [class help](../class_help").  
 
-This is an example of a link to a [pdf](../pdfs/A First Look at Rigorous Probability Theory, 2ed (Jeffrey S. Rosenthal).pdf) and another [pdf with a better filename](evt_cops2.pdf)
+This is an example of a link to a [pdf](../pdfs/A First Look at Rigorous Probability Theory, 2ed (Jeffrey S. Rosenthal).pdf) and another [pdf with a better filename](../pdfs/evt_cops2.pdf)
 This is an example of using the *custom* widget to create your own homepage section.
 
 I am a teaching instructor for the following courses at University X:
