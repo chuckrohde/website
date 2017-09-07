@@ -37,6 +37,6 @@ weight = 1
 
 # Biography
 
-Dr. Charles A. Rohde is a Professor of Biostatistics at Johns Hopkins Bloomberg School of Public Health.   His research interests include likelihood inference, matrices, philosophy of statistics, and all fine wines.  
+Dr. Charles A. Rohde is a Professor of Biostatistics at Johns Hopkins Bloomberg School of Public Health.   His research interests include likelihood inference, matrices, philosophy of statistics, golf and all fine wines.  
 
 He has been a professor at Johns Hopkins for over 50 years ($\approx \infty$).
