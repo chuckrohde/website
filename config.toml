@@ -27,13 +27,11 @@ defaultContentLanguageInSubdir = false
   organization_url = ""
   gravatar = false  # Get your avatar from Gravatar.com? (true/false)
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
-  email = "test@example.org"
-  address = "Building 1 Room 1, Stanford University, California, 90210, USA"
-  office_hours = "Monday 10:00 to 13:00 or email for appointment"
-  phone = "888 888 88 88"
-  skype = "echo123"
-  telegram = ""
-
+  email = "crohde1@jhu.edu"
+  address = "Johns Hopkins Bloomberg School of Public Health, 615 North Wolfe St. E3608 Baltimore, MD 21205"
+  phone = "1-410-955-3539"
+  fax = "1-410-955-0958"
+  
   # Enable Keybase in Contact section by entering your keybase.io username.
   keybase = ""
 
@@ -128,7 +126,7 @@ defaultContentLanguageInSubdir = false
   [[params.social]]
     icon = "envelope"
     icon_pack = "fa"
-    link = "mailto:test@example.org"
+    link = "crohde1@jhu.edu"
 
 
   [[params.social]]
@@ -137,9 +135,15 @@ defaultContentLanguageInSubdir = false
     link = "https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ"
 
   [[params.social]]
-    icon = "github"
+    icon = "phone"
     icon_pack = "fa"
-    link = "//github.com/gcushen"
+    link = "tel:1-410-955-3539"
+  
+  [[params.social]]
+    icon = "fax"
+    icon_pack = "fa"
+    link = "tel:1-410-955-0958"
+
 
 
 # Navigation Links
