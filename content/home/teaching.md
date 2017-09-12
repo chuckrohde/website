@@ -14,17 +14,7 @@ weight = 60
 
 +++
 
-This is a link to the [class help](../class_help").  
+I am a teaching instructor for the following courses at JHU:
 
-This is an example of a link to a [pdf](../pdfs/A First Look at Rigorous Probability Theory, 2ed (Jeffrey S. Rosenthal).pdf) and another [pdf with a better filename](../pdfs/evt_cops2.pdf)
-This is an example of using the *custom* widget to create your own homepage section.
+- B646 Intro Prob Theory
 
-I am a teaching instructor for the following courses at University X:
-
-- CS101: An intro to computer science
-- CS102: An intro to computer science
-- CS103: An intro to computer science
-- CS104: An intro to computer science
-- CS105: An intro to computer science
-- CS106: An intro to computer science
-- CS107: An intro to computer science
